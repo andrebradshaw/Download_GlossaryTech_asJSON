@@ -1,5 +1,5 @@
 
-var yourWebAppUrl = 'https://script.google.com/a/quickli.io/macros/s/AKfycbzRluh6pgf3sbv-RrbbSnYeqphJEIXLiLeIxZVJiNQPitD2neo/exec';
+var yourWebAppUrl = 'REPLACE_THIS_WITH_YOUR_WEB_APP_URL';
 var itm = document.getElementsByTagName("tbody")[0].getElementsByTagName("tr");
 var outputContainArr = [];
 for(i=1; i<itm.length; i++){
